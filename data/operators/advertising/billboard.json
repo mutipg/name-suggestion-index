@@ -333,10 +333,7 @@
     {
       "displayName": "Clear Channel",
       "id": "clearchanneloutdoor-9f7775",
-      "locationSet": {
-        "include": ["001"],
-        "exclude": ["gb"]
-      },
+      "locationSet": {"include": ["us"]},
       "matchNames": ["clear channel"],
       "tags": {
         "advertising": "billboard",
@@ -714,7 +711,7 @@
     {
       "displayName": "JCDecaux",
       "id": "jcdecaux-d4816c",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["fr"]},
       "tags": {
         "advertising": "billboard",
         "operator": "JCDecaux",
