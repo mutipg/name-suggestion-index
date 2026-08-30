@@ -4360,10 +4360,7 @@
     {
       "displayName": "METRO",
       "id": "metro-bcded2",
-      "locationSet": {
-        "include": ["001"],
-        "exclude": ["au", "bg"]
-      },
+      "locationSet": {"include": ["de", "fr", "tr"]},
       "tags": {
         "amenity": "fuel",
         "brand": "METRO",
@@ -4933,7 +4930,7 @@
     {
       "displayName": "Oxxo",
       "id": "oxxo-b3d110",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["mx"]},
       "matchNames": ["oxxo gas"],
       "tags": {
         "amenity": "fuel",
@@ -5169,7 +5166,7 @@
     {
       "displayName": "Petrol Ofisi",
       "id": "petrolofisi-b3d110",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["tr"]},
       "tags": {
         "amenity": "fuel",
         "brand": "Petrol Ofisi",
@@ -5180,7 +5177,7 @@
     {
       "displayName": "Petrolimex",
       "id": "petrolimex-b3d110",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["vn"]},
       "tags": {
         "amenity": "fuel",
         "brand": "Petrolimex",
@@ -5257,7 +5254,7 @@
     {
       "displayName": "Petronas",
       "id": "petronas-b3d110",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["my"]},
       "tags": {
         "amenity": "fuel",
         "brand": "Petronas",
@@ -5799,7 +5796,7 @@
     {
       "displayName": "Repsol",
       "id": "repsol-b3d110",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["es"]},
       "matchNames": ["campsa"],
       "tags": {
         "amenity": "fuel",
@@ -5916,10 +5913,7 @@
     {
       "displayName": "Rubis",
       "id": "rubis-16b3c2",
-      "locationSet": {
-        "include": ["001"],
-        "exclude": ["pl"]
-      },
+      "locationSet": {"include": ["fr"]},
       "tags": {
         "amenity": "fuel",
         "brand": "Rubis",
@@ -5963,10 +5957,7 @@
     {
       "displayName": "Safeway Fuel Station",
       "id": "safewayfuelstation-16b3c2",
-      "locationSet": {
-        "include": ["001"],
-        "exclude": ["pl"]
-      },
+      "locationSet": {"include": ["us"]},
       "tags": {
         "amenity": "fuel",
         "brand": "Safeway",
